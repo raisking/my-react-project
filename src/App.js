@@ -12,6 +12,8 @@ class App extends Component {
         <p>Hello</p>
         <p>Hello</p>
         <p>Hello</p>
+        <p>Hello</p>
+        <p>Hello</p>
         <Person/>
         <Person/>
         <Person/>
